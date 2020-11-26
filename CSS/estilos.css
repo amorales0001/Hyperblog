@@ -1,8 +1,12 @@
 body{
-    color: black;
+    color: #333;
     text-align: center;
     font-family: Arial;
     font-size: 26px;
+    margin: 0;
+    padding: 0;
+
+    
 }
 #cabecera
 {
@@ -19,7 +23,8 @@ body{
     font-weight: normal;
     font-size: 0.9em;
 }
-#container{
+#container
+{
     width: 70%;
     padding: 1em;
     text-align: left;
@@ -32,4 +37,12 @@ body{
 #post
 {
     padding: 1em;
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
