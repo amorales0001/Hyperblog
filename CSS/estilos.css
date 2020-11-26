@@ -17,15 +17,22 @@ body{
     margin: 0;
     padding: 1.5em;
 }
+#cabecera #logo
+{
+    width: 80px;
+    vertical-align: middle;
+}
+
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
     font-weight: normal;
-    font-size: 0.9em;
+    font-size: 0.8em;
+    text-align: center;
 }
 #container
 {
-    width: 70%;
+    width: 80%;
     padding: 1em;
     text-align: left;
     border: 10px solid #dddddd;
@@ -36,6 +43,7 @@ body{
 }
 #post
 {
+    background: #dddddd;
     padding: 1em;
 }
 
