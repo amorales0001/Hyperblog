@@ -19,7 +19,7 @@ body
 }
 #cabecera #logo
 {
-    width: 80px;
+    width: 120px;
     vertical-align: middle;
 }
 
@@ -55,7 +55,9 @@ body
     padding: 0.5em;
 }
 
-#push-pull
+#post #push
 {
-    align-items: center;
+    width: 600px;
+    height: 200px;
+    padding-left: 400px;
 }
