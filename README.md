@@ -19,3 +19,8 @@ Un blog ejemplo para el [Curso Profesional de Git y GitHub de Platzi](https://pl
 ------------
 
 Con el curso estarás completamente list@ para crear y colaborar en todo tipo de proyectos de tu interés, de manera ágil y fluída. 
+
+
+Uno de los mejores editores de [MarkDown](https://pandao.github.io/editor.md/en.html "Click")
+
+https://pandao.github.io/editor.md/en.html
