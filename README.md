@@ -3,18 +3,18 @@
 
 
 
-Un blog ejemplo para el [Curso Profesional de Git y GitHub de Platzi](https://platzi.com/clases/git-github/ 
-"Curso Profesional de Git y Github de Platzi")
+Esto es un blog experimental del [curso desde 0 de Git y GitHub de Platzi](https://platzi.com/clases/git-github/ 
+"Desde 0 en Platzi")
 
 ------------
 
 
-## **Un curso muy completo donde se aprende:**
+## **El curso que se imparte tiene como objetivos**
 
-- Todos los comandos de Git
-- El flujo de trabajo en GitHub
-- Buenas prácticas
-- Trucos y tips para facilitar el trabajo
+- Mostrar los comandos de Git
+- Enseñar el flujo de trabajo en GitHub
+- Fomentar buenas prácticas
+- Enseñar Trucos y tips para facilitar el trabajo
 
 ------------
 
